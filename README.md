@@ -1,9 +1,11 @@
 [image-js-playground](https://dirkarnez.github.io/image-js-playground/)
 =======================================================================
 ### API documentation
-- [image-js 0.35.5 | Documentation](https://image-js.github.io/image-js/)
-
+- [pdfmake](https://pdfmake.github.io/docs/)
 
 ### Notes
-- - for `toDataURL()`, `{ useCanvas: true }` is used for greater compression since it is intended for web
-- image-js is improving - in `resize`, "bilinear" is apparently better than "nearestNeighbor", but not yet supported
+- [`pdfmake.0.2.10.min.js`](pdfmake.0.2.10.min.js) is built using client-side settings.
+- May use [PDFKit](https://pdfkit.org/) directly for more low-level PDF generation - [bpampuch/pdfmake](https://github.com/bpampuch/pdfmake) is an abstraction on top of it
+
+### Templates
+- [dirkarnez/pdfmake-templates](https://github.com/dirkarnez/pdfmake-templates)
