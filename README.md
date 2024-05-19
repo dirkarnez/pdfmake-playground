@@ -1,5 +1,5 @@
-[pdfmake-playground](https://dirkarnez.github.io/image-js-playground/)
-=======================================================================
+[pdfmake-playground](https://dirkarnez.github.io/pdfmake-playground/)
+=====================================================================
 ### API documentation
 - [pdfmake](https://pdfmake.github.io/docs/)
 
